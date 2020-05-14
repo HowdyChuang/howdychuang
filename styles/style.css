@@ -1,0 +1,24 @@
+html {
+    background-color:#00539F;
+    font-size: 10px; 
+    font-family:'Noto Sans TC', sans-serif;
+}
+
+h1 {/*background-color:lightblue; */
+    font-size: 60px ; 
+    text-align: center;}
+h2{font-size: 30px; text-align: left; color:purple;}
+
+#topic2{font-size:16px; 
+line-height:2; letter-spacing: 1px;color:red;}
+
+li{font-size:16px; 
+line-height:6; letter-spacing: 2px;color:brown;}
+
+body{width:600px;
+     margin:0 auto;
+     background-color: #FF9500;
+     padding: 0 20px 20px 20px;
+     border: 5px solid black;}
+img{display:block;
+margin:0 auto;}
